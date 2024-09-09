@@ -3,6 +3,7 @@
 ## 목적 
 - Database 중심 채팅 프로그램
 - Nodejs + Javascript 기반 서버 구축
+- Docker + k8s
 
 ## 기능 
 - 일대다 채팅
